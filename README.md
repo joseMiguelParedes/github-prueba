@@ -2,4 +2,4 @@
 
 github para prueba
 
-[Visita mi Blog](www.qenqo.ifo)
+[Visita mi Blog](www.qenqo.info)
